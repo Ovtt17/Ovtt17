@@ -33,4 +33,4 @@ I am studying **Systems Engineering** at **UNAN León**, currently in the **8th 
 ### 📫 Contact Me:
 
 - **Email:** ovettdev@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/ovett-mora](https://www.linkedin.com/in/ovett-mora-61b2b8234)
+- **LinkedIn:** [www.linkedin.com/in/Ovtt17](https://www.linkedin.com/in/ovtt17)
