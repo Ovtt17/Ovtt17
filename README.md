@@ -56,11 +56,3 @@ I am studying **Systems Engineering** at **UNAN León**, currently in the **8th 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ovtt17&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="ovtt17's GitHub Stats" />
-</div>
