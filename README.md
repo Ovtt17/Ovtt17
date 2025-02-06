@@ -41,7 +41,7 @@ I am a backend developer specialized in **Java with Spring Boot**, passionate ab
 
 ### 📚 Currently:
 
-I am studying **Systems Engineering** at **UNAN León**, currently in the **8th semester**. My focus is on continuously improving my technical skills and learning new technologies to grow as a developer.
+I am studying **Systems Engineering** at **UNAN León**. My focus is on continuously improving my technical skills and learning new technologies to grow as a developer.
 
 ### 📫 Contact Me:
 
