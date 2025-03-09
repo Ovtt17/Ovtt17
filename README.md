@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Ovett Mora
 
-### Software Developer | Java Spring Boot | React | TypeScript | JavaScript | C# | Node.js | Systems Engineering
+### Software Developer | Java Spring Boot | React | TypeScript | JavaScript | C# | Systems Engineering
 
 ---
 
