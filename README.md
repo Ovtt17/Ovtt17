@@ -38,12 +38,6 @@ I'm a backend-focused software developer specialized in **Java with Spring Boot*
 
 ---
 
-### 📚 Currently:
-
-I'm studying **Systems Engineering** at **UNAN León**. My focus is on continuously improving my technical skills and learning new technologies to grow as a developer.
-
----
-
 ### 📫 Contact Me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ovettdev@gmail.com)
